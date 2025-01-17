@@ -1,7 +1,4 @@
 
-
----
-
 # 🦯 Walking Stick for the Visually Impaired
 
 This project aims to design a walking stick for visually impaired people, equipped with features to enhance mobility and safety. The walking stick is activated/deactivated using a button and includes obstacle detection and fall detection functionalities.
