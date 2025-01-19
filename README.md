@@ -5,7 +5,7 @@
 
 This project aims to design a walking stick for visually impaired people, equipped with features to enhance mobility and safety. The walking stick is activated/deactivated using a button and includes obstacle detection and fall detection functionalities.
 
-🖇️ Checkout the LinkedIn post [LinkedIn Post](https://www.linkedin.com/posts/activity-7286376346631467008-uVzF?utm_source=share&utm_medium=member_desktop)
+🖇️ Checkout our project representation [LinkedIn Post](https://www.linkedin.com/posts/activity-7286376346631467008-uVzF?utm_source=share&utm_medium=member_desktop)
 
 ---
 
